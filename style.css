@@ -93,8 +93,22 @@ code {
     font-weight: bold;
 }
 
-footer {
+.cta {
+    margin-top: 10px;
+}
+.cta button {
+    background-color: #e18550;
+    color: white;
+    border-radius: 5px;
+    border: white;
+    padding: 5px;
+}
+.cta button:hover {
     background-color: #e95400;
+}
+
+footer {
+    background-color: #e18550;
     
 }
 footer ul {
